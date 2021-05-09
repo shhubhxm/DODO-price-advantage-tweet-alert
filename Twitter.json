@@ -1,0 +1,8 @@
+[
+    {
+        "consumer_key": "enter-your-consumer-key-here",
+	"consumer_secret": "enter-your-consumer-secret-key-here",
+	"access_token": "enter-your-access-token-here",
+	"access_token_secret": "enter-your-access-token-secrect-key-here"
+    }
+]

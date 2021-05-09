@@ -1,0 +1,9 @@
+[
+    {
+        "KOVAN": "kovan-infura-address",
+	"MAINNET": "mainnet-infura-address",
+	"ROPSTEN": "ropsten-infura-address",
+	"RINKEBY": "rinkeby-infura-address",
+	"GOERLI": "goerli-infura-address"
+    }
+]
