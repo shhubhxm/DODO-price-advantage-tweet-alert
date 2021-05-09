@@ -25,7 +25,7 @@ Challenges we ran into
 >Running the code on the cloud for 24/7
 >Finding contract address to fetch price data
 >Twitter Bot API credentials
->Real time 
+>Real-time 
 
 Accomplishments that we're proud of
 >Fetched the exchange prices from chainlink and Dodo in real-time.
